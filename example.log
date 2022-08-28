@@ -1,0 +1,10 @@
+DEBUG:root:파일에 저장될 DEBUG 수준 로깅
+INFO:root:파일에 저장될 INFO 수준 로깅
+WARNING:root:파일에 저장될 WARNING 수준 로깅
+ERROR:root:파일에 저장될 ERROR 수준 로깅
+CRITICAL:root:파일에 저장될 CRITICAL 수준 로깅
+DEBUG:root:파일에 저장될 DEBUG 수준 로깅
+INFO:root:파일에 저장될 INFO 수준 로깅
+WARNING:root:파일에 저장될 WARNING 수준 로깅
+ERROR:root:파일에 저장될 ERROR 수준 로깅
+CRITICAL:root:파일에 저장될 CRITICAL 수준 로깅
